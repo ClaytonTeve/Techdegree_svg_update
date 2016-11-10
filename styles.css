@@ -33,7 +33,7 @@ p {
 a,
 a svg,
 nav li:nth-child(2) .menu-icon svg {
-  transition: .5s;
+  transition: .3s;
 }
 
 /* The location icon is taller than the other icons*/
